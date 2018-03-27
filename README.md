@@ -37,3 +37,5 @@ To define a playlist simply build a list of links
 
 + [Name or title of the video](https://vimeo.vom/123)
 + [Name or title of the video](https://vimeo.vom/456)
+
+<script src="https://raw.githubusercontent.com/hennott/markdown.vimeo.playbase/master/playbase_simple.js"></script>
